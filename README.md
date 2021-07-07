@@ -1,5 +1,6 @@
 # The Factors to Look Out For that Rack up the Price of AirBnb Listings in NYC
 
+![boxplot](https://github.com/carolynradle/code/blob/main/buildings.png)
 
 New York City, the most popular city in the United States, is a breeding ground for tourism. Whether you come to New York for the food, the musical and artistic talent, or the nightlife, choosing where you are going to stay is a very important part of the NYC experience! AirBnb, a popular lodging mobile app and website, has been altering the way that we think about where we choose to stay in a new place. The app has become increasingly popular since it was founded in 2008, and the hotel industry has been taking a huge hit ever since. The interesting thing about AirBnb is that, as long as you have a space for guests, anyone can be a host. Therefore, the app is extremely common in big cities like New York, where anybody can rent out their apartment or room for a ton of cash.
 
